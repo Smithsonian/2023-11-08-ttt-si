@@ -252,11 +252,6 @@ for more information.
 
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
-<p>
-  Please see <a href="{{ site.training_site }}/instructor/index.html#schedule">the Instructor Training Curriculum</a> for course material and sample schedule for a 2-day event.
-</p>
-
-
 <!--
 NOTE: This space can be customized to reflect the unique schedule of your workshop. If you would like it to display,
 adjust the times and titles, then delete the characters above and below that serve to comment it out.
@@ -389,7 +384,7 @@ FOUR DAY SCHEDULE
       </tr>
       <tr>
         <td>1:10</td>
-        <td><a href="https://carpentries.github.io/instructor-training/14-checkout.htmlcheckout/index.html" target="_blank">Getting Started on Instructor Certification</a></td>
+        <td><a href="https://carpentries.github.io/instructor-training/14-checkout.html" target="_blank">Getting Started on Instructor Certification</a></td>
       </tr>
       <tr>
         <td>1:40</td>
