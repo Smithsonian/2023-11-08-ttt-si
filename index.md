@@ -326,7 +326,7 @@ FOUR DAY SCHEDULE
         <td>Break</td>
       </tr>
       <tr>
-        <td>2:25</td>
+        <td>2:45</td>
         <td><a href="https://carpentries.github.io/instructor-training/03-expertise.html" target="_blank">Expertise and Instruction</a></td>
       </tr>
 
